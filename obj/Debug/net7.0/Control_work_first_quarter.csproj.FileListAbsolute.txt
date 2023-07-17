@@ -1,0 +1,15 @@
+/Users/home/Desktop/Практические занятия/Control_work_first_quarter/bin/Debug/net7.0/Control_work_first_quarter
+/Users/home/Desktop/Практические занятия/Control_work_first_quarter/bin/Debug/net7.0/Control_work_first_quarter.deps.json
+/Users/home/Desktop/Практические занятия/Control_work_first_quarter/bin/Debug/net7.0/Control_work_first_quarter.runtimeconfig.json
+/Users/home/Desktop/Практические занятия/Control_work_first_quarter/bin/Debug/net7.0/Control_work_first_quarter.dll
+/Users/home/Desktop/Практические занятия/Control_work_first_quarter/bin/Debug/net7.0/Control_work_first_quarter.pdb
+/Users/home/Desktop/Практические занятия/Control_work_first_quarter/obj/Debug/net7.0/Control_work_first_quarter.csproj.AssemblyReference.cache
+/Users/home/Desktop/Практические занятия/Control_work_first_quarter/obj/Debug/net7.0/Control_work_first_quarter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Desktop/Практические занятия/Control_work_first_quarter/obj/Debug/net7.0/Control_work_first_quarter.AssemblyInfoInputs.cache
+/Users/home/Desktop/Практические занятия/Control_work_first_quarter/obj/Debug/net7.0/Control_work_first_quarter.AssemblyInfo.cs
+/Users/home/Desktop/Практические занятия/Control_work_first_quarter/obj/Debug/net7.0/Control_work_first_quarter.csproj.CoreCompileInputs.cache
+/Users/home/Desktop/Практические занятия/Control_work_first_quarter/obj/Debug/net7.0/Control_work_first_quarter.dll
+/Users/home/Desktop/Практические занятия/Control_work_first_quarter/obj/Debug/net7.0/refint/Control_work_first_quarter.dll
+/Users/home/Desktop/Практические занятия/Control_work_first_quarter/obj/Debug/net7.0/Control_work_first_quarter.pdb
+/Users/home/Desktop/Практические занятия/Control_work_first_quarter/obj/Debug/net7.0/Control_work_first_quarter.genruntimeconfig.cache
+/Users/home/Desktop/Практические занятия/Control_work_first_quarter/obj/Debug/net7.0/ref/Control_work_first_quarter.dll
